@@ -1,0 +1,2 @@
+defmodule OnExit do
+end
